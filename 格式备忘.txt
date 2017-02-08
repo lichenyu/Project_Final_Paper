@@ -1,0 +1,3 @@
+R单图比例：width-5，height-4
+Visio图：字体字号
+

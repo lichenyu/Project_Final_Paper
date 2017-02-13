@@ -1,3 +1,7 @@
-R单图比例：width-5，height-4
+R单图比例：
+width = 5, height = 4
+par(mar = c(5, 4, 1, 2) + 0.1)
+
+
 Visio图：字体字号
 

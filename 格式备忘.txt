@@ -5,6 +5,10 @@ par(mar = c(5, 4, 1, 2) + 0.1)
 R二图比例：
 width = 5, height = 6
 
+R宽图比例：
+width = 5, height = 3
+
+
 Visio图：字体字号
 
 
